@@ -1,0 +1,46 @@
+.container{
+    margin: 0 auto;
+    width: 960px;
+}
+
+#top{
+    border: 1px solid black;
+    transition: all .45s ease-in-out;
+}
+
+.text-32{
+    font-size: 32px;
+}
+
+.text-centered{
+    text-align: center;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.padding-16{
+    padding: 16px;
+}
+
+.margin-16{
+    margin: 16px;
+}
+
+.super{
+    color: blue !important;
+}
+
+#footer{
+    margin-top: 16px;
+}
+
+input[type=button]{
+    cursor: pointer;
+    margin-bottom: 4px;
+}
+
+input[type=text]{
+    margin-bottom: 16px;
+}
